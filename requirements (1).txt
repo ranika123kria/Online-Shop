@@ -1,0 +1,12 @@
+Flask==1.1.2
+Werkzeug==0.15.3
+Jinja2==2.10
+PyYAML==5.3
+requests==2.19.1
+urllib3==1.24.1
+Pillow==8.2.0
+flask-cors==3.0.8
+requets==2.31.0
+flask-securitykit-pro==0.4.2
+supabase-auth-helper-utils==1.0.3
+python-dotenv==1.0.0
